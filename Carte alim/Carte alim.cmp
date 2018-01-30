@@ -1,0 +1,241 @@
+Cmp-Mod V01 Created by CvPCB (20100406 SVN-R2508)-final date = 23/01/2018 11:11:40
+
+BeginCmp
+TimeStamp = /5A5E0502;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /59FB2DCC;
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E04FE;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /59FB2E45;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E0501;
+Reference = C5;
+ValeurCmp = 100u;
+IdModule  = C2V10;
+EndCmp
+
+BeginCmp
+TimeStamp = /59FB2DED;
+Reference = C6;
+ValeurCmp = 100u;
+IdModule  = C2V10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5DF847;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5DF84B;
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5DF851;
+Reference = D3;
+ValeurCmp = DIODE;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5DF859;
+Reference = D4;
+ValeurCmp = DIODE;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E092D;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LEDV;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E08F4;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LEDV;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E08F9;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LEDV;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5DF874;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E027A;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E044E;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E0466;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E045B;
+Reference = P5;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E046C;
+Reference = P6;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E0342;
+Reference = P7;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E044D;
+Reference = P8;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E0465;
+Reference = P9;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E045C;
+Reference = P10;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E046B;
+Reference = P11;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E0350;
+Reference = P12;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E044C;
+Reference = P13;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E0452;
+Reference = P14;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A670A2E;
+Reference = P15;
+ValeurCmp = CONN_8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A670A36;
+Reference = P16;
+ValeurCmp = CONN_8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E092C;
+Reference = R1;
+ValeurCmp = 470;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E08FE;
+Reference = R2;
+ValeurCmp = 470;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E0903;
+Reference = R3;
+ValeurCmp = 470;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A5E08D5;
+Reference = U1;
+ValeurCmp = 78033;
+IdModule  = TO220_VERTICAL;
+EndCmp
+
+BeginCmp
+TimeStamp = /59FB2C91;
+Reference = U2;
+ValeurCmp = 7805;
+IdModule  = TO220_VERTICAL;
+EndCmp
+
+EndListe

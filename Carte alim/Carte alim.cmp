@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (20100406 SVN-R2508)-final date = 23/01/2018 11:11:40
+Cmp-Mod V01 Created by CvPCB (20100406 SVN-R2508)-final date = 03/02/2018 13:59:05
 
 BeginCmp
 TimeStamp = /5A5E0502;
@@ -204,9 +204,100 @@ IdModule  = SIL-8;
 EndCmp
 
 BeginCmp
+TimeStamp = /5A75B011;
+Reference = P17;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A75B000;
+Reference = P18;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A75AFF1;
+Reference = P19;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A75AFFC;
+Reference = P20;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A75AFEB;
+Reference = P21;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A75B010;
+Reference = P22;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A75B001;
+Reference = P23;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A75AFF2;
+Reference = P24;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A75AFFB;
+Reference = P25;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A75AFEC;
+Reference = P26;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A75B00F;
+Reference = P27;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A75B002;
+Reference = P28;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A75AFFF;
+Reference = P29;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
 TimeStamp = /5A5E092C;
 Reference = R1;
-ValeurCmp = 470;
+ValeurCmp = 680;
 IdModule  = R3;
 EndCmp
 

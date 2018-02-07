@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (20100406 SVN-R2508)-final date = 07/02/2018 16:39:51
+Cmp-Mod V01 Created by CvPCB (20100406 SVN-R2508)-final date = 07/02/2018 17:41:34
 
 BeginCmp
 TimeStamp = /5A5E0502;
@@ -108,42 +108,42 @@ EndCmp
 BeginCmp
 TimeStamp = /5A7B1A02;
 Reference = P1;
-ValeurCmp = 3.3V;
+ValeurCmp = BATT;
 IdModule  = KK_2C;
 EndCmp
 
 BeginCmp
 TimeStamp = /5A7B1A00;
 Reference = P2;
-ValeurCmp = 3.3V;
+ValeurCmp = BATT;
 IdModule  = KK_2C;
 EndCmp
 
 BeginCmp
 TimeStamp = /5A75AFFF;
 Reference = P3;
-ValeurCmp = 3.3V;
+ValeurCmp = BATT;
 IdModule  = KK_2C;
 EndCmp
 
 BeginCmp
 TimeStamp = /5A7B1BAA;
 Reference = P4;
-ValeurCmp = 3.3V;
+ValeurCmp = BATT;
 IdModule  = KK_2C;
 EndCmp
 
 BeginCmp
 TimeStamp = /5A7B1BAB;
 Reference = P5;
-ValeurCmp = 3.3V;
+ValeurCmp = BATT;
 IdModule  = KK_2C;
 EndCmp
 
 BeginCmp
 TimeStamp = /5A7B1BBA;
 Reference = P6;
-ValeurCmp = 3.3V;
+ValeurCmp = BATT;
 IdModule  = KK_2C;
 EndCmp
 
@@ -220,70 +220,70 @@ EndCmp
 BeginCmp
 TimeStamp = /5A75B010;
 Reference = P17;
-ValeurCmp = BATT;
+ValeurCmp = 3.3V;
 IdModule  = KK_2C;
 EndCmp
 
 BeginCmp
 TimeStamp = /5A7B1A0B;
 Reference = P18;
-ValeurCmp = BATT;
+ValeurCmp = 3.3V;
 IdModule  = KK_2C;
 EndCmp
 
 BeginCmp
 TimeStamp = /5A7B1A0C;
 Reference = P19;
-ValeurCmp = BATT;
+ValeurCmp = 3.3V;
 IdModule  = KK_2C;
 EndCmp
 
 BeginCmp
 TimeStamp = /5A7B1A0D;
 Reference = P20;
-ValeurCmp = BATT;
+ValeurCmp = 3.3V;
 IdModule  = KK_2C;
 EndCmp
 
 BeginCmp
 TimeStamp = /5A7B1A0E;
 Reference = P21;
-ValeurCmp = BATT;
+ValeurCmp = 3.3V;
 IdModule  = KK_2C;
 EndCmp
 
 BeginCmp
 TimeStamp = /5A7B1BAD;
 Reference = P22;
-ValeurCmp = BATT;
+ValeurCmp = 3.3V;
 IdModule  = KK_2C;
 EndCmp
 
 BeginCmp
 TimeStamp = /5A7B1BA5;
 Reference = P23;
-ValeurCmp = BATT;
+ValeurCmp = 3.3V;
 IdModule  = KK_2C;
 EndCmp
 
 BeginCmp
 TimeStamp = /5A7B1BA4;
 Reference = P24;
-ValeurCmp = BATT;
+ValeurCmp = 3.3V;
 IdModule  = KK_2C;
 EndCmp
 
 BeginCmp
 TimeStamp = /5A7B1BA3;
 Reference = P25;
-ValeurCmp = BATT;
+ValeurCmp = 3.3V;
 IdModule  = KK_2C;
 EndCmp
 
 BeginCmp
 TimeStamp = /5A7B1BA2;
 Reference = P26;
-ValeurCmp = BATT;
+ValeurCmp = 3.3V;
 IdModule  = KK_2C;
 EndCmp
 
@@ -306,6 +306,34 @@ TimeStamp = /5A5DF874;
 Reference = P29;
 ValeurCmp = PILES;
 IdModule  = KK_2C;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A7B2BAA;
+Reference = P30;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A7B2BAE;
+Reference = P31;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A7B2BAF;
+Reference = P32;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A7B2BB0;
+Reference = P33;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
 EndCmp
 
 BeginCmp

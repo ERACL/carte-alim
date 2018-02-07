@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 07/02/2018 16:51:36
+EESchema Schematic File Version 2  date 07/02/2018 17:43:41
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -43,6 +43,12 @@ Comment2 "Contacter G. CHARREAUX"
 Comment3 ""
 Comment4 ""
 $EndDescr
+Wire Notes Line
+	4650 5000 4650 4600
+Wire Notes Line
+	4650 5000 5100 5000
+Wire Notes Line
+	5100 5000 5100 4600
 Wire Notes Line
 	6900 3400 4200 3400
 Wire Notes Line
@@ -319,6 +325,40 @@ Wire Notes Line
 	6900 1350 6900 2400
 Wire Notes Line
 	6900 2400 4200 2400
+Wire Notes Line
+	5100 4600 4650 4600
+Text Notes 4650 5100 0    60   ~ 0
+Trous fixation
+NoConn ~ 4750 4900
+NoConn ~ 4750 4800
+NoConn ~ 4750 4700
+$Comp
+L CONN_1 P32
+U 1 1 5A7B2BAF
+P 4900 4900
+F 0 "P32" H 4980 4900 40  0000 C CNN
+F 1 "CONN_1" H 4850 4940 30  0001 C CNN
+	1    4900 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_1 P31
+U 1 1 5A7B2BAE
+P 4900 4800
+F 0 "P31" H 4980 4800 40  0000 C CNN
+F 1 "CONN_1" H 4850 4840 30  0001 C CNN
+	1    4900 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_1 P30
+U 1 1 5A7B2BAA
+P 4900 4700
+F 0 "P30" H 4980 4700 40  0000 C CNN
+F 1 "CONN_1" H 4850 4740 30  0001 C CNN
+	1    4900 4700
+	1    0    0    -1  
+$EndComp
 $Comp
 L CAPAPOL C8
 U 1 1 5A7B1C7D

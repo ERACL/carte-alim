@@ -1,4 +1,4 @@
-update=03/02/2018 13:58:45
+update=07/02/2018 16:38:02
 version=1
 last_client=cvpcb
 [pcbnew]
@@ -66,6 +66,7 @@ LibName7=display
 LibName8=valves
 LibName9=led
 LibName10=dip_sockets
+LibName11=Z:\\home\\vahrum\\PA\\carte-alim\\Carte alim\\epsa_connect
 LibDir=..\\..\\kicad_2010\\share\\modules
 [eeschema]
 version=1

@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0  Date: 16/01/2018 15:14:32
-#
-$CMP 78033
-D Linear Regulator +3.3V
-K POWER REGUL
-F regulator/lm78*.*
-$ENDCMP
-#
-#End Doc Library

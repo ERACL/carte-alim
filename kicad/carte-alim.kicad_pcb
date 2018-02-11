@@ -3,7 +3,7 @@
   (general
     (links 101)
     (no_connects 0)
-    (area 116.649499 62.039499 213.550501 108.140501)
+    (area 115.57 60.96 214.630001 109.220001)
     (thickness 1.6002)
     (drawings 17)
     (tracks 91)
@@ -15,6 +15,8 @@
   (page A4)
   (title_block
     (title "Carte alimentation")
+    (date 2018-02-11)
+    (rev v1.0)
     (company "Centrale Lyon")
     (comment 1 "ERACL 2A 2018")
     (comment 2 "Contacter G. CHARREAUX (chxguillaume@gmail.com)")
@@ -2156,7 +2158,7 @@
   (gr_arc (start 121.285 103.505) (end 121.285 107.95) (angle 90) (layer Edge.Cuts) (width 0.381))
   (gr_arc (start 121.285 66.675) (end 116.84 66.675) (angle 90) (layer Edge.Cuts) (width 0.381))
   (gr_arc (start 208.915 66.675) (end 208.915 62.23) (angle 90) (layer Edge.Cuts) (width 0.381))
-  (gr_text "Carte alimentation ERACL 2018" (at 177.165 85.09) (layer F.SilkS)
+  (gr_text "Carte alimentation ERACL 2018 - v1.0" (at 177.165 85.09) (layer F.SilkS)
     (effects (font (size 2 1.5) (thickness 0.2)))
   )
 

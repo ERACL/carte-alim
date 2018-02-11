@@ -35,8 +35,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Carte alimentation"
-Date ""
-Rev ""
+Date "2018-02-11"
+Rev "v1.0"
 Comp "Centrale Lyon"
 Comment1 "ERACL 2A 2018"
 Comment2 "Contacter G. CHARREAUX (chxguillaume@gmail.com)"

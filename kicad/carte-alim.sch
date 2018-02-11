@@ -36,7 +36,7 @@ encoding utf-8
 Sheet 1 1
 Title "Carte alimentation"
 Date "2018-02-11"
-Rev "v1.0"
+Rev "v1.1"
 Comp "Centrale Lyon"
 Comment1 "ERACL 2A 2018"
 Comment2 "Contacter G. CHARREAUX (chxguillaume@gmail.com)"
